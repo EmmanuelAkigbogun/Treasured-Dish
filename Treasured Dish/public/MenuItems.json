@@ -1,0 +1,375 @@
+
+[{
+        "Meat":{
+            "0":
+            {
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Meat0",
+                "b":{
+                    "boolean":true,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"90$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "1":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Meat1",
+                "b":{
+                    "boolean":true,
+                    "text":"Taste a Treasure, in every Dish Taste a reas Meat1",
+                    "price":"80$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "2":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Meat2",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas Meat2",
+                    "price":"70$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "3":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Meat3",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas Meat3",
+                    "price":"90$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "4":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Meat4",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas Meat4",
+                    "price":"40$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "5":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Meat5",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas Meat5",
+                    "price":"50$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                }
+     
+        },
+        "Vegetables":{
+            "0":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Vegetables0",
+                "b":{
+                    "boolean":true,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"40$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "1":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Vegetables1",
+                "b":{
+                    "boolean":true,
+                    "text":"Taste a Treasure, in every Dish Taste a reas Vegetables1",
+                    "price":"30$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "2":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Vegetables2",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas Vegetables2",
+                    "price":"70$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "3":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Vegetables3",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas Vegetables3",
+                    "price":"550$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "4":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Vegetables4",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas Vegetables4",
+                    "price":"40$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "5":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Vegetables5",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas Vegetables5",
+                    "price":"50$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                }
+        },
+        "Appetizers":{            
+            "0":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Appetizers0",
+                "b":{
+                    "boolean":true,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"60$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "1":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Appetizers1",
+                "b":{
+                    "boolean":true,
+                    "text":"Taste a Treasure, in every Dish Taste a reas ",
+                    "price":"30$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "2":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Appetizers2",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"70$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "3":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Appetizers3",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"90$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "4":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Appetizers4",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"40$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "5":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Appetizers5",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"50$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                }},
+        "Desserts":{
+            "0":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Desserts0",
+                "b":{
+                    "boolean":true,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"90$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "1":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Desserts1",
+                "b":{
+                    "boolean":true,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"80$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "2":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Desserts2",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"70$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "3":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Desserts3",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"90$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "4":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Desserts4",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"40$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "5":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Desserts5",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"50$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                }
+        },
+        "Sides":{            
+            "0":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Sides0",
+                "b":{
+                    "boolean":true,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"90$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "1":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Sides1",
+                "b":{
+                    "boolean":true,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"80$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "2":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Sides2",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"70$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "3":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Sides3",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"90$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "4":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Sides4",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"40$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "5":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Sides5",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"50$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                }},
+        "Drinks":{
+                        "0":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Drinks0",
+                "b":{
+                    "boolean":true,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"90$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "1":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Drinks1",
+                "b":{
+                    "boolean":true,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"80$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "2":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Drinks2",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"70$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "3":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Drinks3",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"90$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "4":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Drinks4",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"40$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                },
+            "5":{
+                "a":"Taste a Treasure, in every Dish...Taste a reasure, in Drinks5",
+                "b":{
+                    "boolean":false,
+                    "text":"Taste a Treasure, in every Dish Taste a reas",
+                    "price":"50$",
+                    "image":"./src/pexels-kader-d-kahraman.png"
+                    },
+                "seleccted":"true"
+                }
+        }
+}]
