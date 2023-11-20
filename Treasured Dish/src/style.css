@@ -407,6 +407,9 @@ input[type=text]::placeholder {
     .section_b {
         min-height: auto;
     }
+ .section_a {
+        min-height: auto;
+    }
 
 
 }
