@@ -1,14 +1,21 @@
+@font-face {
+    font-family: Baijamjuree;
+    src: url('./src/BaiJamjuree-Regular.ttf');
+}
 
- @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Italiana&family=Nunito+Sans:ital,opsz,wght@0,6..12,700;1,6..12,800&display=swap');
- @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Italiana&family=Nunito+Sans:ital,opsz,wght@0,6..12,700;1,6..12,800&display=swap');
- * {
+@font-face {
+    font-family: Italiana;
+    src: url('./src/Italiana-Regular.ttf');
+}
+
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 img {
-    object-fit: cover;
+    object-fit: contain;
 }
 
 :root {
@@ -290,10 +297,12 @@ input[type=text]::placeholder {
     top: 0px;
 }
 
-    .a_image {
-        
-       height: auto;
-    }
+.a_image {
+    object-fit: cover;
+    height: auto;
+    min-width: 400px;
+    max-height: 400px;
+}
 
 .section_a {
     min-height: calc(100vh - 80px);
@@ -407,11 +416,9 @@ input[type=text]::placeholder {
     .section_b {
         min-height: auto;
     }
- .section_a {
-        min-height: auto;
+    .section_a {
+            min-height: auto;
     }
-
-
 }
 
 @media screen and (max-width:1250px) {
@@ -658,6 +665,17 @@ input[type=text]::placeholder {
         flex-direction: column;
         gap: 32px;
     }
+
+    /* .a_image {
+    max-height: auto;
+} */
+
+}
+@media screen and (max-width:500px) {
+    .a_image {
+    min-width: auto;
+}
+
 }
 
 @media screen and (max-width:400px) {
